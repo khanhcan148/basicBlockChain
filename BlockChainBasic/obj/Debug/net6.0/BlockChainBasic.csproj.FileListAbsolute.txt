@@ -1,0 +1,15 @@
+D:\MyProject\BlockChainBasic\BlockChainBasic\bin\Debug\net6.0\BlockChainBasic.exe
+D:\MyProject\BlockChainBasic\BlockChainBasic\bin\Debug\net6.0\BlockChainBasic.deps.json
+D:\MyProject\BlockChainBasic\BlockChainBasic\bin\Debug\net6.0\BlockChainBasic.runtimeconfig.json
+D:\MyProject\BlockChainBasic\BlockChainBasic\bin\Debug\net6.0\BlockChainBasic.dll
+D:\MyProject\BlockChainBasic\BlockChainBasic\bin\Debug\net6.0\ref\BlockChainBasic.dll
+D:\MyProject\BlockChainBasic\BlockChainBasic\bin\Debug\net6.0\BlockChainBasic.pdb
+D:\MyProject\BlockChainBasic\BlockChainBasic\obj\Debug\net6.0\BlockChainBasic.csproj.AssemblyReference.cache
+D:\MyProject\BlockChainBasic\BlockChainBasic\obj\Debug\net6.0\BlockChainBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\BlockChainBasic\BlockChainBasic\obj\Debug\net6.0\BlockChainBasic.AssemblyInfoInputs.cache
+D:\MyProject\BlockChainBasic\BlockChainBasic\obj\Debug\net6.0\BlockChainBasic.AssemblyInfo.cs
+D:\MyProject\BlockChainBasic\BlockChainBasic\obj\Debug\net6.0\BlockChainBasic.csproj.CoreCompileInputs.cache
+D:\MyProject\BlockChainBasic\BlockChainBasic\obj\Debug\net6.0\BlockChainBasic.dll
+D:\MyProject\BlockChainBasic\BlockChainBasic\obj\Debug\net6.0\ref\BlockChainBasic.dll
+D:\MyProject\BlockChainBasic\BlockChainBasic\obj\Debug\net6.0\BlockChainBasic.pdb
+D:\MyProject\BlockChainBasic\BlockChainBasic\obj\Debug\net6.0\BlockChainBasic.genruntimeconfig.cache
